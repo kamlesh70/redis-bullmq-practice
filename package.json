@@ -25,6 +25,7 @@
     "bluebird": "^3.5.5",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
     "express": "^4.17.1",
     "express-validator": "^6.0.0",
     "moment": "^2.24.0",

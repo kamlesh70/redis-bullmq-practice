@@ -6,3 +6,4 @@ redisdata/
 *.swp
 *.tmp
 *.log
+.env

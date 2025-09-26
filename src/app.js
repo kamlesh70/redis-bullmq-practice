@@ -1,7 +1,8 @@
 const config = require('better-config');
-
+const { configurations } = require("../config");
 // Load the configuration file.
-config.set('../config.json');
+
+config.set(configurations());
 
 const express = require('express');
 const morgan = require('morgan');
